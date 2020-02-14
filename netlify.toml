@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/about"
+  to = "https://deannasanchez.netlify.com/about"
+
+  from = "/work"
+  to = "https://deannasanchez.netlify.com/work"
+
+  from = "/contact
+  to = "https://deannasanchez.netlify.com/contact"
