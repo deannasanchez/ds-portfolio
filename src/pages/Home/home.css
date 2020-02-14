@@ -1,0 +1,22 @@
+.main-home {
+    font-family: 'News Cycle', sans-serif;
+    background-image: url("colors-bg.png");
+    background-repeat: no-repeat, repeat;
+}
+
+.title-home {
+    font-size: 700%;
+    margin-top: 17%;
+    margin-bottom: 20%;
+    margin-left:10%;
+    color: white;
+}
+
+.projecttop {
+    margin-top: 7%;
+}
+
+.lil-about {
+    background-color: white;
+
+}
