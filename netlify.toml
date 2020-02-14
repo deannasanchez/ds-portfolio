@@ -1,9 +1,0 @@
-[[redirects]]
-  from = "/About.js"
-  to = "https://deannasanchez.netlify.com/about"
-
-  from = "/Work.js"
-  to = "https://deannasanchez.netlify.com/work"
-
-  from = "/Contact.js"
-  to = "https://deannasanchez.netlify.com/contact"
